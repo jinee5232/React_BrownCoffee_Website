@@ -1,0 +1,9 @@
+.index_bg {
+  background-image: url("../../public/images/photos/bg-300x300.png");
+  background-repeat: repeat;
+  background-color: #fffcf4;
+  background-size: 50%;
+  /* height: 1000vh; */
+  height: auto;
+  width: 100vw;
+}

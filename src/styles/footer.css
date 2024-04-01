@@ -1,0 +1,41 @@
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  height: 190px;
+}
+
+.copyright {
+  font-size: 0.75rem;
+}
+
+.bg-color {
+  background-color: #b02a37;
+}
+
+#border {
+  position: relative;
+}
+
+#border::after {
+  position: absolute;
+  top: 0.5em;
+  height: calc(100% - 1em);
+  left: 0;
+  content: "";
+  width: 0px;
+  border-left: solid white 1px;
+}

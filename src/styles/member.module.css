@@ -1,0 +1,58 @@
+html,
+body {
+  width: 100%;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+/* content-start */
+
+/* breadcrumb-start */
+
+.breadcrumb-text {
+  color: #b02a37;
+}
+
+/* breadcrumb-end */
+
+/* title-start */
+
+.mob-subpage-title {
+  color: #58151c;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.5rem;
+  letter-spacing: 0.25rem;
+}
+
+.tab-subpage-title {
+  color: #58151c;
+  font-size: 2.25rem;
+  font-weight: 700;
+  line-height: 3rem;
+  letter-spacing: 0.25rem;
+}
+
+/* title-end */
+
+/* img-start */
+
+.img-size2 {
+  width: 85%;
+  height: auto;
+}
+
+/* img-end */
+
+/* btn-view-more-start */
+
+.view-more-position {
+  position: absolute;
+  right: -20%;
+  z-index: 20;
+  bottom: -15%;
+}
+
+/* btn-view-more-end */
+
+/* content-end */
