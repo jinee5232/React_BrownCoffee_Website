@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, HashRouter } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Homepage from "./pages/Homepage.jsx";
 import Activity from "./pages/Activitypage.jsx";
@@ -15,7 +15,7 @@ import Loginpage from "./pages/Loginpage.jsx";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Homepage />}></Route>
@@ -33,7 +33,7 @@ function App() {
           <Route path="shopping" element={<Shop />}></Route>
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
