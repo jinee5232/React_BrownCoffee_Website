@@ -24,7 +24,7 @@ const Homepage = () => {
           <div className="col-12 d-flex justify-content-center align-items-center g-0">
             <img
               className="col-12 object-fit-cover"
-              src="../../public/images/photos/gif/coffee_gif.gif"
+              src="./images/photos/gif/coffee_gif.gif"
               alt="banner"
             />
           </div>
@@ -57,7 +57,7 @@ const Homepage = () => {
             </div>
             <div className="d-flex justify-content-end align-items-center">
               <img
-                src="../../public/images/photos/index/tablet-only/section01_taiwan.png"
+                src="./images/photos/index/tablet-only/section01_taiwan.png"
                 alt="section01_taiwan"
               />
             </div>
@@ -73,7 +73,7 @@ const Homepage = () => {
             {/* <!-- 首頁大標題（記得設父層絕對）-start --> */}
             <img
               className="pt-5"
-              src="../../public/images/photos/index/section02-title-design.png"
+              src="./images/photos/index/section02-title-design.png"
               alt="title-design"
             />
             {/* <!-- 第二組絕對 --> */}
@@ -116,7 +116,7 @@ const Homepage = () => {
             <div className=" col-12 d-flex justify-content-center align-content-center position-relative">
               <img
                 className="pt-5"
-                src="../../public/images/photos/index/section02-title-design.png"
+                src="./images/photos/index/section02-title-design.png"
                 alt="title-design"
               />
               {/* <!-- 第三組絕對 --> */}
@@ -198,7 +198,7 @@ const Homepage = () => {
               <div className="col-12 d-flex justify-content-center align-content-center w-100">
                 <button>
                   <img
-                    src="../../public/images/photos/index/section04-btn-poke-in.png"
+                    src="./images/photos/index/section04-btn-poke-in.png"
                     alt="poke-in"
                   />
                 </button>
@@ -210,14 +210,14 @@ const Homepage = () => {
             <div className="col-9 d-flex justify-content-center mt-3">
               <img
                 className="img-fluid"
-                src="../../public/images/photos/index/section04.gif"
+                src="./images/photos/index/section04.gif"
                 alt="poke-in"
               />
             </div>
             <div className="col-6 d-flex justify-content-center mt-5">
               <button className="scoll_btn" onClick={ScollOpen}>
                 <img
-                  src="../../public/images/photos/index/section04-btn-scrolldown.png"
+                  src="./images/photos/index/section04-btn-scrolldown.png"
                   alt="btn-scroll-down"
                 />
               </button>
@@ -237,7 +237,7 @@ const Homepage = () => {
                   </div>
                   <div className="col-6 d-flex justify-content-center mb-5">
                     <img
-                      src="../../public/images/photos/index/section04-title.png"
+                      src="./images/photos/index/section04-title.png"
                       alt="title-design"
                     />
                   </div>
@@ -257,7 +257,7 @@ const Homepage = () => {
                   <div className="d-flex justify-content-center align-items-center s5-circle position-relative">
                     <img
                       className="position-absolute z-1 "
-                      src="../../public/images/photos/index/section04-photo.png"
+                      src="./images/photos/index/section04-photo.png"
                       alt=""
                     />
                   </div>
@@ -271,7 +271,7 @@ const Homepage = () => {
                   </div>
                   <div className="col-6 d-flex justify-content-center mb-5">
                     <img
-                      src="../../public/images/photos/index/section04-title.png"
+                      src="./images/photos/index/section04-title.png"
                       alt="title-design"
                     />
                   </div>
@@ -291,7 +291,7 @@ const Homepage = () => {
                   <div className="d-flex justify-content-center align-items-center s5-circle position-relative">
                     <img
                       className="position-absolute z-1 "
-                      src="../../public/images/photos/index/section04-photo02.png"
+                      src="/images/photos/index/section04-photo02.png"
                       alt=""
                     />
                   </div>
@@ -305,7 +305,7 @@ const Homepage = () => {
                   </div>
                   <div className="col-6 d-flex justify-content-center mb-5">
                     <img
-                      src="../../public/images/photos/index/section04-title.png"
+                      src="./images/photos/index/section04-title.png"
                       alt="title-design"
                     />
                   </div>
@@ -328,7 +328,7 @@ const Homepage = () => {
                   <div className="d-flex justify-content-center align-items-center s5-circle position-relative">
                     <img
                       className="position-absolute z-1 "
-                      src="../../public/images/photos/index/section04-photo03.png"
+                      src="./images/photos/index/section04-photo03.png"
                       alt=""
                     />
                   </div>
@@ -354,7 +354,7 @@ const Homepage = () => {
                 <div className="col-9 d-flex justify-content-center morebtn mt-5">
                   <img
                     className="img-fluid"
-                    src="../../public/images/photos/index/section05-btn-more.png"
+                    src="./images/photos/index/section05-btn-more.png"
                     alt="btn-more"
                   />
                 </div>
