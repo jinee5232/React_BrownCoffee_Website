@@ -17,7 +17,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/React_BrownCoffee_Website/" element={<Layout />}>
+        <Route path="/" element={<Layout />}>
           <Route index element={<Homepage />}></Route>
           <Route path="activity" element={<Activity />}></Route>
           <Route path="/activity/:active" element={<ActivityInfo />}></Route>
