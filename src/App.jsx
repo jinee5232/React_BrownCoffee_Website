@@ -1,17 +1,17 @@
 import { useState } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
-import Homepage from "./pages/Homepage";
-import Activity from "./pages/Activitypage";
-import Layout from "./Layout";
-import Member from "./pages/Member";
-import Product from "./pages/productpage";
-import Store from "./pages/Storepage";
-import Shop from "./pages/Shoppingpage";
-import ActivityInfo from "./pages/ActivityInfo";
-import ActivityImage from "./pages/ActivityImage";
-import Registerpage from "./pages/Registerpage";
-import Loginpage from "./pages/Loginpage";
+import Homepage from "./pages/Homepage.jsx";
+import Activity from "./pages/Activitypage.jsx";
+import Layout from "./Layout.jsx";
+import Member from "./pages/Member.jsx";
+import Product from "./pages/productpage.jsx";
+import Store from "./pages/Storepage.jsx";
+import Shop from "./pages/Shoppingpage.jsx";
+import ActivityInfo from "./pages/ActivityInfo.jsx";
+import ActivityImage from "./pages/ActivityImage.jsx";
+import Registerpage from "./pages/Registerpage.jsx";
+import Loginpage from "./pages/Loginpage.jsx";
 
 function App() {
   return (
