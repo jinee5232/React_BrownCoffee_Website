@@ -41,28 +41,28 @@
                 "name": "開心吃年菜，窈窕過好年",
                 "date": "2024/02/01",
                 "content": "過年期間難免大魚大肉，小心胖了身體 ...",
-                "img": "../../public/images/photos/activy/03_activity02/photo01.jpg",
+                "img": "./images/photos/activy/03_activity02/photo01.jpg",
                 "info": " 過年期間難免大魚大肉，小心胖了身體又失去健康。本講座邀請到張益堯營養師分享：打破年菜危機的技巧以及打造易瘦體質的妙方。"
             },
             {
                 "name": "跨年之夜，狂歡伯朗",
                 "date": "2023/12/31-2024/1/1",
                 "content": "伯朗跨年狂歡優惠，與您一起迎接新的一年！",
-                "img": "../../public/images/photos/activy/03_activity02/photo02.jpg",
+                "img": "./images/photos/activy/03_activity02/photo02.jpg",
                 "info": ""
             },
             {
                 "name": "聖誕佳節，共襄盛舉",
                 "date": "2023/12/25-2024/12/26",
                 "content": "聖誕老公公的到來，Coming soon",
-                "img": "../../public/images/photos/activy/03_activity02/photo03.jpg",
+                "img": "./images/photos/activy/03_activity02/photo03.jpg",
                 "info": ""
             },
             {
                 "name": "復活吧!復活節兔兔",
                 "date": "2024/11/25-12/23",
                 "content": "剪彩蛋，吃火雞，在伯朗",
-                "img": "../../public/images/photos/activy/03_activity02/photo04.jpg",
+                "img": "./images/photos/activy/03_activity02/photo04.jpg",
                 "info": ""
             }
         ]

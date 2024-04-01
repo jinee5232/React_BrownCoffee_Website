@@ -15,10 +15,7 @@ const footer = () => {
             <div className="row col-md-5 justify-content-center">
               {/* footer logo-start */}
               <div className="col-12 d-flex justify-content-center align-items-center">
-                <img
-                  src={"../../public/images/Logo/header_Logo.png"}
-                  alt="brand-slogan"
-                />
+                <img src={"./images/Logo/header_Logo.png"} alt="brand-slogan" />
               </div>
               {/* footer logo-end */}
               {/* footer hyperlink-start*/}
@@ -44,12 +41,9 @@ const footer = () => {
                   Follow us
                 </p>
 
-                <img src={"../../public/images/icons/facebook.png"} alt="fb" />
-                <img
-                  src={"../../public/images/icons/instragram.png"}
-                  alt="ig"
-                />
-                <img src={"../../public/images/icons/line.png"} alt="line" />
+                <img src={"./images/icons/facebook.png"} alt="fb" />
+                <img src={"./images/icons/instragram.png"} alt="ig" />
+                <img src={"./images/icons/line.png"} alt="line" />
               </div>
               {/* <!-- footer social icon-end --> */}
             </div>
