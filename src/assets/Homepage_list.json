@@ -1,0 +1,100 @@
+[
+    {
+        "Type": "Productlist",
+        "HotList": [
+            {
+                "img": "../../public/images/photos/index/section03-hot-photo.jpg",
+                "Tag": "hot-product",
+                "name": "雞肉菠菜鹹派",
+                "Statesrc": "../../public/images/photos/index/section03-hottag.png",
+                "Statealt": "hot-tag",
+                "En_name": "Quiche - Chicken & Spinach"
+            },
+            {
+                "img": "../../public/images/photos/index/section03-hot-photo2.jpg",
+                "Tag": "hot-product",
+                "name": "雞肉菠菜鹹派",
+                "Statesrc": "../../public/images/photos/index/section03-hottag.png",
+                "Statealt": "hot-tag",
+                "En_name": "Quiche - Chicken & Spinach"
+            },
+            {
+                "img": "../../public/images/photos/index/section03-hot-photo3.jpg",
+                "Tag": "hot-product",
+                "name": "雞肉菠菜鹹派",
+                "Statesrc": "../../public/images/photos/index/section03-hottag.png",
+                "Statealt": "hot-tag",
+                "En_name": "Quiche - Chicken & Spinach"
+            }
+        ],
+        "NewList": [
+            {
+                "img": "../../public/images/photos/index/section03-new-photo.jpg",
+                "Tag": "new-product",
+                "name": "雞肉菠菜鹹派",
+                "Statesrc": "../../public/images/photos/index/section03-newtag.png",
+                "Statealt": "new-tag",
+                "En_name": "Quiche - Chicken & Spinach"
+            },
+            {
+                "img": "../../public/images/photos/index/section03-new-photo02.jpg",
+                "Tag": "new-product",
+                "name": "雞肉菠菜鹹派",
+                "Statesrc": "../../public/images/photos/index/section03-newtag.png",
+                "Statealt": "new-tag",
+                "En_name": "Quiche - Chicken & Spinach"
+            },
+            {
+                "img": "../../public/images/photos/index/section03-new-photo03.jpg",
+                "Tag": "new-product",
+                "name": "雞肉菠菜鹹派",
+                "Statesrc": "../../public/images/photos/index/section03-newtag.png",
+                "Statealt": "new-tag",
+                "En_name": "Quiche - Chicken & Spinach"
+            }
+        ]
+    },
+    {
+        "Type": "Storelist",
+        "StoreList": [
+            {
+                "img": "../../public/images/photos/index/section02-store-photo.jpg",
+                "imgalt": "store-photo01",
+                "where": "宜蘭縣員山鄉",
+                "name": "圓山酒堡咖啡館"
+            },
+            {
+                "img": "../../public/images/photos/index/section02-store02.jpg",
+                "imgalt": "store-photo02",
+                "where": "宜蘭縣員山鄉",
+                "name": "圓山酒堡咖啡館"
+            },
+            {
+                "img": "../../public/images/photos/index/section02-store03.jpg",
+                "imgalt": "store-photo03",
+                "where": "宜蘭縣員山鄉",
+                "name": "圓山酒堡咖啡館"
+            }
+        ]
+    },
+    {
+        "Type": "Activity",
+        "ActList": [
+            {
+                "img": "../../public/images/photos/index/section05-photo.png"
+            },
+            {
+                "img": "../../public/images/photos/index/section05-photo02.png"
+            },
+            {
+                "img": "../../public/images/photos/index/section05-photo03.png"
+            },
+            {
+                "img": "../../public/images/photos/index/section05-photo04.png"
+            },
+            {
+                "img": "../../public/images/photos/index/section05-photo05.png"
+            }
+        ]
+    }
+]
