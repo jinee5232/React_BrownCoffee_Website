@@ -49,25 +49,25 @@ const Activitypage = ({ ActivityToInfo }) => {
         </div>
         <img
           className=" position-absolute recent-activity-position"
-          src="../../public/images/photos/activy/03_activity/title.png"
+          src="./images/photos/activy/03_activity/title.png"
           alt="recent-activity-title"
         />
         <div className="col-10 mt-3 d-flex justify-content-center">
           <button>
             <img
-              src="../../public/images/photos/activy/03_activity/Ellipse 201.png"
+              src="./images/photos/activy/03_activity/Ellipse 201.png"
               alt=""
             />
           </button>
           <button>
             <img
-              src="../../public/images/photos/activy/03_activity/Ellipse 201.png"
+              src="./images/photos/activy/03_activity/Ellipse 201.png"
               alt=""
             />
           </button>
           <button>
             <img
-              src="../../public/images/photos/activy/03_activity/Ellipse 201.png"
+              src="./images/photos/activy/03_activity/Ellipse 201.png"
               alt=""
             />
           </button>
@@ -80,7 +80,7 @@ const Activitypage = ({ ActivityToInfo }) => {
         <div className="col-10 d-flex mt-5 justify-content-around align-items-center">
           <img
             className="w-25"
-            src="../../public/images/photos/activy/03_activity/title02.png"
+            src="./images/photos/activy/03_activity/title02.png"
             alt="activity"
           />
           <div>

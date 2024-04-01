@@ -8,28 +8,28 @@ import style from "../styles/style.module.css";
 const Shoppingpage = () => {
   const ShopContent = [
     {
-      img: "../../public/images/photos/shopping/LINE_gift.jpg",
+      img: "./images/photos/shopping/LINE_gift.jpg",
       imgalt: "member",
       order: "order-0",
       Name: ["LINE", "禮物"],
       TbName: "LINE 禮物",
     },
     {
-      img: "../../public/images/photos/shopping/PChome.jpg",
+      img: "./images/photos/shopping/PChome.jpg",
       imgalt: "member",
       order: "order-1",
       Name: ["PChome", ""],
       TbName: "PC home",
     },
     {
-      img: "../../public/images/photos/shopping/momo.jpg",
+      img: "./images/photos/shopping/momo.jpg",
       imgalt: "member",
       order: "order-0",
       Name: ["MOMO ", "購物"],
       TbName: "MOMO 購物",
     },
     {
-      img: "../../public/images/photos/shopping/Rakuten.jpg",
+      img: "./images/photos/shopping/Rakuten.jpg",
       imgalt: "member",
       order: "order-1",
       Name: ["樂天", "購物"],
@@ -99,7 +99,7 @@ const Shoppingpage = () => {
                   {/* <button>
                     <img
                       className="me-4 img-fluid"
-                      src="../../public/images/icons/more_btn.png"
+                      src="./images/icons/more_btn.png"
                     />
                   </button> */}
                 </div>
@@ -120,7 +120,7 @@ const Shoppingpage = () => {
                   {/* <button>
                     <img
                       className="me-4 img-fluid"
-                      src="../../public/images/icons/more_btn.png"
+                      src="./images/icons/more_btn.png"
                     />
                   </button> */}
                 </div>

@@ -5,14 +5,14 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const productpage = () => {
   const ProductContent = [
     {
-      img: "../../public/images/photos/product/photo01.jpg",
+      img: "./images/photos/product/photo01.jpg",
       imgalt: "member",
       order: "order-0",
       Name: ["最新", "產品"],
       TbName: "最新產品",
     },
     {
-      img: "../../public/images/photos/product/photo02.jpg",
+      img: "./images/photos/product/photo02.jpg",
       imgalt: "member",
       order: "order-1",
       Name: ["飲品", "介紹"],
@@ -87,7 +87,7 @@ const productpage = () => {
                   {/* <button>
                   <img
                     className="me-4 img-fluid"
-                    src="../../public/images/icons/more_btn.png"
+                    src="./images/icons/more_btn.png"
                   />
                 </button> */}
                 </div>

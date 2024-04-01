@@ -37,7 +37,7 @@ const ActivityInfo = () => {
           <div className="col-9 my-2">
             <img
               className="img-fluid recent-activity-img shadow"
-              src="../../public/images/photos/activy/03_activity01/photo01.jpg"
+              src="./images/photos/activy/03_activity01/photo01.jpg"
               alt={item.name}
             />
           </div>

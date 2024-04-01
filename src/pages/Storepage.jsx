@@ -6,14 +6,14 @@ import style from "../styles/style.module.css";
 const Storepage = () => {
   const StoreContent = [
     {
-      img: "../../public/images/photos/store/photo.jpg",
+      img: "./images/photos/store/photo.jpg",
       imgalt: "member",
       order: "order-0",
       Name: ["門市", "查詢"],
       TbName: "門市查詢",
     },
     {
-      img: "../../public/images/photos/store/photo02.jpg",
+      img: "./images/photos/store/photo02.jpg",
       imgalt: "member",
       order: "order-1",
       Name: ["特色", "門市"],
@@ -88,7 +88,7 @@ const Storepage = () => {
                   {/* <button>
                   <img
                     className="me-4 img-fluid"
-                    src="../../public/images/icons/more_btn.png"
+                    src="./images/icons/more_btn.png"
                   />
                 </button> */}
                 </div>

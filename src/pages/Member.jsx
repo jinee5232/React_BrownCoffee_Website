@@ -5,7 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 const Member = () => {
   const MmberContent = [
     {
-      img: "../../public/images/photos/member/sign_in_img.png",
+      img: "./images/photos/member/sign_in_img.png",
       link: "login",
       handle: "handleloginClick",
       imgalt: "member",
@@ -15,7 +15,7 @@ const Member = () => {
       TbNameB: "歡迎會員登入後，不定期領取會員優惠！",
     },
     {
-      img: "../../public/images/photos/member/refister_img.png",
+      img: "./images/photos/member/refister_img.png",
       link: "register",
       handle: "handleregisterClick",
       imgalt: "member",
@@ -105,7 +105,7 @@ const Member = () => {
                   {/* <button>
                     <img
                       className="me-4 img-fluid"
-                      src="../../public/images/icons/more_btn.png"
+                      src="./images/icons/more_btn.png"
                     />
                   </button> */}
                 </div>
